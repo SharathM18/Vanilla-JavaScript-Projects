@@ -17,6 +17,11 @@ The counter application is an interactive tool that allows users to easily incre
 
 [Demo](https://counterapplicationjs.vercel.app/) &emsp;  [Source Code](https://github.com/SharathM18/Counter-Application.git)
 
+### Stopwatch-Application
+The Stopwatch application allows users to measure elapsed time with features like start, stop, reset functionalities, and lap recording. Users can monitor hours, minutes, and seconds in real-time on the interface. Implemented in JavaScript, the project demonstrates effective handling of timing events and DOM manipulation, providing a user-friendly way to track time intervals accurately.
+
+[Demo](https://stopwatchapplication.vercel.app/) &emsp;  [Source Code](https://github.com/SharathM18/Stopwatch-Application.git)
+
 
 ### Rock-Paper-Scissors Game
 Developed a responsive Rock-Paper-Scissors game using HTML, CSS, and JavaScript, showcasing proficiency in event handling, randomization, and DOM manipulation.
