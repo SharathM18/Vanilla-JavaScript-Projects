@@ -12,6 +12,12 @@ Developed a user-friendly Tic Tac Toe game using HTML, CSS, and JavaScript, show
 
 [Demo](https://playtictactoegame.vercel.app/) &emsp;  [Source Code](https://github.com/SharathM18/Tic-Tac-Toe-Game.git)
 
+### Counter-Application
+The counter application is an interactive tool that allows users to easily increase, decrease, or reset a numerical count. With buttons for single and double increments or decrements.
+
+[Demo](https://counterapplicationjs.vercel.app/) &emsp;  [Source Code](https://github.com/SharathM18/Counter-Application.git)
+
+
 ### Rock-Paper-Scissors Game
 Developed a responsive Rock-Paper-Scissors game using HTML, CSS, and JavaScript, showcasing proficiency in event handling, randomization, and DOM manipulation.
 
